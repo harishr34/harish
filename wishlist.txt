@@ -1,0 +1,41 @@
+<html>
+ <head>
+   <title>my wishes </title>
+<style>
+table,th,td{
+border:1px solid;
+border-collapse:collapse;
+}
+  body{
+  color:red
+}
+</style>
+</head>
+<body> 
+          <img src="goals.jpg" width="600" heigth="200">
+<table>
+             <tr>
+                <th>my wishes</th>
+               <th>challenges</th>
+            </tr>
+<tr>
+       <td>
+               <ol>
+                      <li>to become an engineer</li>
+                      <li>to find a good job</li>
+                      <li>to buy a home</li>
+                      <li>to buy favourite bike</li>
+                      </ol>
+        </td>
+                  <td>
+                          <ul>
+                            <li>financial problem</li>
+                            <li>lack of discipline</li>
+                            <li>transportation facilities</li>
+                            <li>lack of interst </li>
+                             </ul>
+                  </td>
+          </tr>
+   </table>
+</body>
+</html>
